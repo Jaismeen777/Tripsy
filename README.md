@@ -100,4 +100,4 @@ Tripsy goes beyond traditional travel planning. By focusing on mood, energy, and
 ![image](https://github.com/user-attachments/assets/ada56586-1fae-4275-8d93-4faf6d32073b)
 
 
-
+Although the project was developed earlier, the code was uploaded to GitHub at a later date due to security and confidentiality reasons. The commit timestamps do not reflect the actual development timeline, which took place months prior. This approach was taken to ensure sensitive information was properly secured before making the code publicly availables.
