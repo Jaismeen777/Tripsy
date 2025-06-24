@@ -8,14 +8,20 @@ Tripsy aims to revolutionize the travel experience by focusing not only on the d
 # Problem Statement
 Most existing travel apps focus only on logistics like flights, hotels, and tickets. They fail to consider:
 *User mood or energy levels.
+
 *Dynamic changes (e.g., weather, traffic).
+
 *Group trip collaboration.
+
 *Reflection and memory-keeping.
+
 Tripsy aims to fill this gap, making travel an adaptive, emotional, and intelligent experience.
 
 # Target Audience
 *Individuals (18–50 years) seeking personalized, stress-free trips.
+
 *Small groups, families, and solo travelers.
+
 *Primarily urban users in developed countries.
 
 # Value Proposition
