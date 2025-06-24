@@ -64,7 +64,7 @@ Tripsy goes beyond traditional travel planning. By focusing on mood, energy, and
 
 ![image](https://github.com/user-attachments/assets/59b822b2-50ac-4993-acb2-8871399156fb)
 ![image](https://github.com/user-attachments/assets/7987072f-bba1-4412-a97e-63c58cd19ce3)
-![image](https://github.com/user-attachments/assets/576610b2-a55e-48d5-bcb0-bb022d678950)
+![image](https://github.com/user-attachments/assets/a48896ae-3556-4fc1-9e31-036a119333bf)
 ![image](https://github.com/user-attachments/assets/c8556b73-c77c-489d-b350-e7f50137d6d3)
 ![image](https://github.com/user-attachments/assets/013ba189-e69d-4c8a-b11e-116293d205b3)
 ![image](https://github.com/user-attachments/assets/6fcf1bd3-613e-42b3-948f-0304518c5358)
